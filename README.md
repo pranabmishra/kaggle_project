@@ -1,2 +1,4 @@
 # kaggle_project
-Will upload all kaggle projects. 
+Welcome to my Project Repository. 
+
+Will upload all necessary codes and data set of the project.
